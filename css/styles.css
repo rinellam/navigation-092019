@@ -81,6 +81,9 @@ nav a {
 nav a:hover,
 nav a:focus {
     color: #1792d2;
+    border-bottom: 4px solid #1792d2;
+    transition-duration: 250ms;
+
 }
 
 .current-page {
